@@ -1,5 +1,5 @@
 - 👋 I'm Joseph Shuffield, a data analyst with a creative problem solving approach that comes from my years as a music theorist, composer, and professional violinst.  
--
+
 
 
 <!---
